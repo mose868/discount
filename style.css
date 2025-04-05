@@ -1,0 +1,48 @@
+/* General body styling */
+body {
+    font-family: 'Arial', sans-serif; /* Set a basic font */
+    background-color: #f4f4f4; /* Light gray background color */
+    margin: 0;
+    padding: 0;
+}
+
+/* Styling for the container */
+.container {
+    width: 80%;
+    margin: 20px auto; /* Center the container with a margin */
+    padding: 20px;
+    background-color: white; /* White background for the container */
+    border: 1px solid #ddd; /* Light border around the container */
+    border-radius: 8px; /* Rounded corners */
+}
+
+/* Styling the main heading */
+#main-title {
+    color: #4CAF50; /* Green color for the heading */
+    font-size: 36px; /* Larger font size */
+    text-align: center; /* Center-align the text */
+}
+
+/* Styling paragraphs with the 'description' class */
+.description {
+    color: #333; /* Dark gray text color */
+    font-size: 18px;
+    margin-top: 15px;
+    line-height: 1.6; /* Increase line height for readability */
+}
+
+/* Styling the image */
+.image {
+    display: block;
+    margin: 20px auto; /* Center the image */
+    border-radius: 8px; /* Rounded corners for the image */
+    border: 5px solid #ddd; /* Light border around the image */
+}
+
+/* Styling the footer text */
+.footer-text {
+    text-align: center; /* Center-align the footer text */
+    color: #777; /* Light gray text color */
+    font-size: 16px;
+    margin-top: 30px;
+}
